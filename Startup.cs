@@ -40,7 +40,7 @@ namespace DutchTreat
             //{
             //    await context.Response.WriteAsync("<html><body><h1>Hello Zepp</h1></body></html>");
             //}
-            //);
+            //);  
             app.UseDefaultFiles();
             app.UseStaticFiles();  
         }
